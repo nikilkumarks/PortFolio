@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "react.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "js1.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "java.png"
+  },
+  {
+    "title": "Mysql",
+    "imageSrc": "mysql.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "py1.png"
+  }
+]

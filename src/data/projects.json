@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Ecommerce Website",
+    "imageSrc": "project.png",
+    "description": "A responsive eCommerce site built with HTML, CSS, and JavaScript featuring product listings, a shopping cart, and a clean, user-friendly design.",
+    "skills": ["HTML", "CSS", "JAVASCRIPT"],
+    "demo": "https://e-commerc-seven.vercel.app/",
+    "source": "https://github.com/nikilkumarks/E-Commerc"
+  },
+  {
+    "title": "PokemonExplorer",
+    "imageSrc": "project.png",
+    "description": "A React-based web app to browse and search Pokémon using the PokéAPI, featuring real-time search, detailed stats, and a responsive UI.",
+    "skills": ["React"],
+    "demo": "https://poke-mon-psi.vercel.app/",
+    "source": "https://github.com/nikilkumarks/PokeMon"
+  },
+  {
+    "title": "MusicWebsite",
+    "imageSrc": "project.png",
+    "description": "A stylish music-themed website built with HTML, CSS, and JavaScript, featuring artist sections, playlists, and interactive UI elements.",
+    "skills": ["HTML","CSS","JAVASCRIPT"],
+    "demo": "https://harmonicheavenofmusic.vercel.app/",
+    "source": "https://github.com/nikilkumarks/Heavenly_music"
+  }
+]
