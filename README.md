@@ -42,14 +42,14 @@ PortFolio/
 
 ## 💻 How to Run the Project Locally
 
-1. **Clone the Repository**
+-1. **Clone the Repository**
    git clone https://github.com/nikilkumarks/PortFolio.git
    cd PortFolio
-2. **Install the Dependencies**
+-2. **Install the Dependencies**
     npm install
-3.**Start the Development Server**
+-3.**Start the Development Server**
     npm run dev
-4.**View the Site**
+-4.**View the Site**
    Open your browser and go to:
              http://localhost:5173
 
