@@ -41,7 +41,7 @@ PortFolio/
 ---
 
 ## 💻 How to Run the Project Locally
-
+```
 -1. **Clone the Repository**
    git clone https://github.com/nikilkumarks/PortFolio.git
    cd PortFolio
@@ -52,7 +52,7 @@ PortFolio/
 -4.**View the Site**
    Open your browser and go to:
              http://localhost:5173
-
+```
 ## 📬 Contact
 
 If you'd like to connect, collaborate, or have any questions, feel free to reach out:
