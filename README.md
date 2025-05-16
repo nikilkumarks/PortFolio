@@ -54,9 +54,6 @@ PortFolio/
 ## 📬 Contact
 
 If you'd like to connect, collaborate, or have any questions, feel free to reach out:
-
-- **🌐 Portfolio Website:** [https://wondrous-lolly-28fa46.netlify.app](https://wondrous-lolly-28fa46.netlify.app)
 - **📧 Email:** nikilkumark.s19601@gmail.com
-- **🐙 GitHub:** [https://github.com/nikilkumarks](https://github.com/nikilkumarks)
 
 I'm always open to feedback, collaboration, or new opportunities!
