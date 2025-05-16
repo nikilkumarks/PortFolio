@@ -9,8 +9,6 @@ This is a personal portfolio website built using **React** and **Vite**. It is d
 ## 🚀 Features
 
 - ✅ **Responsive Design** – Works on desktops, tablets, and phones
-- 🛠️ **Project Showcase** – Displays your past work with links and details
-- 👨‍💼 **About Me** – Brief introduction and background
 - 📬 **Contact Form** – Lets visitors message you
 - ⚡ **Fast Build Tool** – Powered by Vite for faster development
 
@@ -25,4 +23,40 @@ This is a personal portfolio website built using **React** and **Vite**. It is d
 ---
 
 ## 📁 Folder Structure
+PortFolio/
+├── public/ # Static files (images, favicon, etc.)
+├── src/
+│ ├── components/ # Reusable UI components (e.g., Navbar, Footer)
+│ ├── pages/ # Page components (About, Projects, Contact)
+│ ├── App.jsx # Main application component
+│ └── main.jsx # Entry point that starts the app
+├── index.html # HTML template used by Vite
+├── package.json # Contains dependencies and scripts
+├── vite.config.js # Configuration for Vite
+└── README.md # Project documentation
 
+
+---
+
+## 💻 How to Run the Project Locally
+
+1. **Clone the Repository**
+   git clone https://github.com/nikilkumarks/PortFolio.git
+   cd PortFolio
+2. **Install the Dependencies**
+    npm install
+3.**Start the Development Server**
+    npm run dev
+4.**View the Site**
+   Open your browser and go to:
+             http://localhost:5173
+
+## 📬 Contact
+
+If you'd like to connect, collaborate, or have any questions, feel free to reach out:
+
+- **🌐 Portfolio Website:** [https://wondrous-lolly-28fa46.netlify.app](https://wondrous-lolly-28fa46.netlify.app)
+- **📧 Email:** nikilkumark.s19601@gmail.com
+- **🐙 GitHub:** [https://github.com/nikilkumarks](https://github.com/nikilkumarks)
+
+I'm always open to feedback, collaboration, or new opportunities!
