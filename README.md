@@ -24,7 +24,7 @@ This is a personal portfolio website built using **React** and **Vite**. It is d
 
 ## 📁 Folder Structure
 PortFolio/
-├── public/ # Static files (images, favicon, etc.)
+'''├── public/ # Static files (images, favicon, etc.)
 ├── src/
 │ ├── components/ # Reusable UI components (e.g., Navbar, Footer)
 │ ├── pages/ # Page components (About, Projects, Contact)
@@ -34,7 +34,7 @@ PortFolio/
 ├── package.json # Contains dependencies and scripts
 ├── vite.config.js # Configuration for Vite
 └── README.md # Project documentation
-
+'''
 
 ---
 
